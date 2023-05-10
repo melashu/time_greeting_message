@@ -9,6 +9,8 @@
   - [Installation ](#installation-)
     - [Usage](#usage)
   - [👥 Authors ](#-authors-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
 
 # 📖 time_greeting_message <a name="about-project"></a>
 
@@ -71,6 +73,14 @@ The above code will display either of the message below, based on the curent tim
 - Twitter: [@meshu102](https://twitter.com/meshu102)
 - LinkedIn: [Melashu Amare](https://www.linkedin.com/in/melashu-amare/)
 
+## 🤝 Contributing <a name="contributing"></a>
 
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page.](https://github.com/melashu/time_greeting_message/issues)
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a star if you like this project!
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
