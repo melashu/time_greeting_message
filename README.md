@@ -21,7 +21,7 @@ This is a simple gem to display a message with the phrase `Good Morning` if it i
 Add the following code to you Gemfile 
 
 ```
-gem 'time_greeting_message', '~> 0.0.2'
+gem 'time_greeting_message'
 ```
 or 
 
