@@ -1,7 +1,7 @@
 Gem::Specification.new do |spec| 
   spec.required_ruby_version = '>= 2.6.0'
   spec.name = 'time_greeting_message'
-  spec.version = '0.0.2'
+  spec.version = '0.0.3'
   spec.license = 'MIT'
   spec.homepage = 'https://rubygems.org/gems/time_greeting_message'
   spec.files = Dir['lib/**/*.rb']
